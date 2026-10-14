@@ -34,6 +34,6 @@ The skill supports distinctive styles as well as restrained interfaces. It does 
 
 No particular plugin or paid service is required. For implementation and verification, the agent uses the project's available Apple build, preview, simulator, and accessibility tools. Optional integrations are described in [Tool workflow](references/tool-workflow.md).
 
-## Discovery on skills.sh
+## License
 
-According to the [skills.sh FAQ](https://skills.sh/docs/faq), public GitHub skills appear in the directory through installation telemetry from the skills CLI. A separate submission is not required.
+[MIT](LICENSE)
